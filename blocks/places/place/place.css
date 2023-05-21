@@ -1,0 +1,12 @@
+.place {
+  display: grid;
+  width: 984px;
+  max-height: 660px;
+  
+  /* gap: 48px 40px; */
+  grid-template-rows: 1fr 1fr minmax(min-content, max-content);
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 40px auto;
+  
+}
+

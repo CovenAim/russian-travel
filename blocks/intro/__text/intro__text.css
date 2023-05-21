@@ -1,0 +1,26 @@
+.intro__text {
+  margin: 40px auto 33px;
+  width: 690px;
+  min-height: 208px;
+  
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 163%;
+  /* identical to box height, or 107% */
+  
+    color: #FFFFFF;
+}
+
+@media screen and (max-width: 500px) {
+  .intro__text {
+    margin: 40px auto 34px auto;
+    width: 288px;
+    height: 520px;
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+  }
+}
