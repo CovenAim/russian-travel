@@ -1,0 +1,13 @@
+.header__links {
+    display: flex;
+    flex-direction: row;
+    align-self: end;
+}
+
+.header__lang-link + .header__lang-link {
+    margin-left: 18px;
+}
+
+.header__lang-link:first-child {
+  text-decoration-line: underline;
+}

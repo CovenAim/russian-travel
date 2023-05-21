@@ -1,0 +1,16 @@
+.lead__image {
+  display: flex;
+  max-width: 984px;
+  max-height: 615px;
+  justify-content: center;
+  padding-top: 54px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media screen and (max-width: 500px) {
+  .lead__image {
+    width: 320px;
+    height: 200px;
+  }
+}

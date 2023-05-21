@@ -1,0 +1,19 @@
+.page {
+  min-width: 320px;
+  max-width: 1280px;
+  min-height: 6875px;
+  background: #2A2C2F; 
+  margin: 0 auto;
+  font-family: 'Inter', Arial, sans-serif;
+}
+
+div, header, nav, h1, h2, h3, h4, p, section, ul, li {
+  border: 1px solid red;
+}
+
+@media screen and (max-width: 500px) {
+  .page {
+    width: 320px;
+    height: 10023px;
+  }
+}

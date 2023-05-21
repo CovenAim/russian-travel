@@ -1,0 +1,30 @@
+.intro__list {
+  display: flex;
+  margin: 0;
+  padding: 0;
+  width: 690px;
+  height: 90px;
+  list-style: none;
+  flex-direction: column;
+
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 18px;
+/* or 150% */
+
+  color: #FFFFFF;
+}
+
+
+@media screen and (max-width: 500px) {
+  .intro__list {
+    width: 288px;
+    height: 90px;
+
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 18px;
+  }
+}
