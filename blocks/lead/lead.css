@@ -5,3 +5,10 @@
   max-height: 1005px;
   flex-direction: column;
 }
+
+@media screen and (max-width: 500px) {
+  .lead__subtitle {
+    width: 320px;
+    height: 406px;
+  }
+}
