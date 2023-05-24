@@ -2,7 +2,9 @@
     margin: 0 auto;
     padding: 92px 48px 0;
     max-width: 1184px;
+    max-height: 2724px;
     display: grid;
+    justify-content: center;
     grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
     gap: 16px;
 }

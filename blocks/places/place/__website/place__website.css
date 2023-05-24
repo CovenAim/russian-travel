@@ -1,6 +1,9 @@
 .place__website {
+    display: flex;
     width: 456px;
     height: 46px;
+    flex-direction: column;
+    justify-content: space-between;
     
     margin-top: 106px;
     margin-right: 28px;  

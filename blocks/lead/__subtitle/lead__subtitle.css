@@ -1,7 +1,7 @@
 .lead__subtitle {
   margin: 0;
-  width: 640px;
-  height: 72px;
+  max-width: 640px;
+  max-height: 72px;
   justify-content: center;
   padding-top: 32px;
   margin-left: auto;
