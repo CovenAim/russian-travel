@@ -1,14 +1,16 @@
 .lead {
-  margin: auto auto 92px auto;
+  margin: 0 auto;
   display: flex;
   max-width: 984px;
   max-height: 1005px;
   flex-direction: column;
 }
 
-@media screen and (max-width: 500px) {
-  .lead__subtitle {
+/* @media screen and (max-width: 500px) {
+  .lead {
     width: 320px;
     height: 406px;
+    margin-bottom: 64px;
+   
   }
-}
+} */
