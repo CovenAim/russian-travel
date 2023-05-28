@@ -1,18 +1,35 @@
 .page {
-  min-width: 320px;
-  max-width: 1280px;
+  max-width: 100%;
   background: #2A2C2F; 
-  margin: 0 auto;
+  margin: 0;
   font-family: 'Inter', Arial, sans-serif;
 }
 
-div, header, nav, h1, h2, h3, h4, p, section, ul, li {
-  border: 1px solid red;
+div, h1, h2, h3, h4, p, ul, li, nav {
+  border: solid 1px red;
+}
+
+
+/* @media screen and (max-width: 1100px) {
+  .page {
+    min-width: 1024px;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .page {
+    min-width: 768px;
+  }
 }
 
 @media screen and (max-width: 500px) {
   .page {
-    width: 320px;
-    height: 10023px;
+    min-width: 450px;
   }
-}
+} 
+
+@media screen and (max-width: 390px) {
+  .page {
+    min-width: 320px;
+  }
+}  */
