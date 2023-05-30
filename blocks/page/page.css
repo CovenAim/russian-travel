@@ -1,35 +1,6 @@
 .page {
   max-width: 100%;
-  background: #2A2C2F; 
+  background: #2A2C2F;
   margin: 0;
   font-family: 'Inter', Arial, sans-serif;
 }
-
-div, h1, h2, h3, h4, p, ul, li, nav {
-  border: solid 1px red;
-}
-
-
-/* @media screen and (max-width: 1100px) {
-  .page {
-    min-width: 1024px;
-  }
-}
-
-@media screen and (max-width: 800px) {
-  .page {
-    min-width: 768px;
-  }
-}
-
-@media screen and (max-width: 500px) {
-  .page {
-    min-width: 450px;
-  }
-} 
-
-@media screen and (max-width: 390px) {
-  .page {
-    min-width: 320px;
-  }
-}  */

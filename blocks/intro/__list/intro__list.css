@@ -11,16 +11,3 @@
 
   color: #FFFFFF;
 }
-
-/* 
-@media screen and (max-width: 500px) {
-  .intro__list {
-    width: 288px;
-    height: 90px;
-
-    font-style: normal;
-    font-weight: 700;
-    font-size: 12px;
-    line-height: 18px;
-  }
-} */
