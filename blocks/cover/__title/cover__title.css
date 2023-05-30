@@ -3,15 +3,13 @@
     margin-bottom: 32px;
     margin-top: 0;
     padding: 0;
-
     text-decoration: none;
     text-align: center;
-    
-    line-height: 76px;   
+    line-height: 76px;
     font-weight: 900;
     font-size: 72px;
-    
     color: #ffffff;
+    z-index: 2;
 }
 
 
