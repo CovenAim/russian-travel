@@ -18,4 +18,4 @@
  3. Yandex(Версия 23.3.3.709)
  4. Safari (Версия 16.4 (17615.1.26.101.9, 17615))
 
-#### GitHub Pages: _github-pages-challenge-CovenAim
+#### GitHub Pages: https://covenaim.github.io/russian-travel/
