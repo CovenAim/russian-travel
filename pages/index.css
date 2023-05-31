@@ -25,7 +25,7 @@
 @import url(../blocks/intro/__title/intro__title.css);
 @import url(../blocks/intro/__text/intro__text.css);
 @import url(../blocks/intro/__list/intro__list.css);
-@import url(../blocks/intro/__list/__list_withoutbold/intro__list_withoutbold.css);
+@import url(../blocks/intro/__list/__withoutbold/intro__withoutbold.css);
 
 
 /* photo-grid */
